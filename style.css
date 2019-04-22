@@ -1,0 +1,40 @@
+body {
+  padding-top: 50px;
+  background-color: #E5ECAB;
+}
+textarea {
+	min-height: 150px;
+}
+.col-md-6 {
+  text-align: center;
+}
+.starter-template {
+	text-align: center !important;
+}
+.starter-template h1 {
+	color: #FC6700;
+	font-size: 70px;
+}
+.copy-button {
+/*	position: fixed;
+	left: 1%;
+	bottom: 2%;*/
+	width: 100px;
+}
+.config_input_note {
+	font-size: 10px;
+}
+input {
+	text-align: center;
+}
+
+.body { background-color: E5ECAB;}
+.body { color: 768B1F;}
+.starter-template h1 {color: FC6700;}
+.logo {
+width: 100%;
+}
+
+.btn-info {
+linear-gradient(to bottom,#E5ECAB0,#FC6700100%)!important;
+}
